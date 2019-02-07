@@ -1,0 +1,16 @@
+<component name="ProjectDictionaryState">
+  <dictionary name="Simon">
+    <words>
+      <w>hitbox</w>
+      <w>standardxspeed</w>
+      <w>standardyspeed</w>
+      <w>xdistance</w>
+      <w>xpos</w>
+      <w>xspeed</w>
+      <w>ypos</w>
+      <w>yspeed</w>
+      <w>zwischenfloat</w>
+      <w>zwischenspeicher</w>
+    </words>
+  </dictionary>
+</component>
